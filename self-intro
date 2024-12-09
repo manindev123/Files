@@ -1,7 +1,7 @@
 - question: self introduction
   description: 
-  - My name is sivakumar Reddy. I have total 12 years of experience. I earlier worked as Java developer, later I shifted to DevOps and Cloud. 
-  - I am now working as Senior DevOps Engineer in my project.
+  - My name is Manikhantababu. I have total 4+ years of experience in DevOps and AWS Cloud. 
+  - I am now working as Juniour DevOps Engineer in my project.
   - We are using RHEL9, Ansible for configuration management and VM deployments, Terraform for IaaC, Jenkins for CICD, multiple scanning tools like Sonar, Metasploit, Veracode, ECR scan, Docker for image building, Kubernetes for contianer orchestration, Our tesing team use few testing frameworks like Selenium and Cucumber, Shell script for simple automations and cronjobs, We have seperate monitoring team for ELK and prometheus. We are using Python for cloud and other automations.
   - We take care of all the deployments from DEV to PROD through our atomated process. We let developers only focus on programming we handle everything else.
   - We are following DevSecOps, Shiftleft, Build once and run anywhere strategies. We have our centralised CICD pipelines powered by Jenkins Shared libraries.
